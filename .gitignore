@@ -1,0 +1,10 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/EmergencyRoadsideAssistanceService/.vs
+/EmergencyRoadsideAssistanceService/EmergencyRoadsideAssistanceService/bin/Debug/net6.0
+/EmergencyRoadsideAssistanceService/EmergencyRoadsideAssistanceService/obj
+/EmergencyRoadsideAssistanceService/EmergencyRoadsideAssistanceTests/bin
+/EmergencyRoadsideAssistanceService/EmergencyRoadsideAssistanceTests/obj
